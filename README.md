@@ -1,1 +1,5 @@
-# javascript_practice
+# 간단한 자바스크립트 연습
+
+__기능__
+
+- 
